@@ -1,0 +1,30 @@
+*{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.heading{
+    font-size: 6vh;
+    padding-top: 0px;
+    color: rgb(100, 100, 100);
+    text-align: center;
+}
+.login-form{
+    background-color: white;
+    width: 60vw;
+    margin: auto;
+    padding: 20px 40px 20px 40px;
+    padding-left: 40px;
+    padding-right: 40px;
+    height: 100%;
+    box-shadow: 10px 0px 10px rgb(233, 233, 233) , -10px 0px 10px rgb(233, 233, 233);
+}
+
+label{
+    font-size: larger;
+    color: rgb(75, 75, 75);
+}
+
+.cost{
+    text-align: right;
+    color: green;
+}
